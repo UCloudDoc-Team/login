@@ -2,6 +2,6 @@
 
 {{indexmenu_n>10}}
 
-**目录：**
+**目录**
 
-{{indexmenu>:account:login#1 | nsort dsort msort}}
+{{indexmenu>:account:login#1 | nsort dsort msort}} 
