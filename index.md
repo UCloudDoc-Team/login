@@ -2,6 +2,4 @@
 
 {{indexmenu_n>10}}
 
-[login/login\_flow](/account/login/login_flow)
-
-[login/find\_password](/account/login/find_password)
+{{indexmenu>:account:login#1 | nsort dsort msort}}
