@@ -13,19 +13,19 @@
 <img width="773" height="493" alt="image" src="https://github.com/user-attachments/assets/850632d0-9d0e-4d9a-94c6-c8da08550dec" />
 
 
-3.登录成功
+3.登录完成 验证通过后自动跳转至控制台首页。
 
 ## 二、子用户登录
-1.点击下方子用户账号登录按钮 
+1.进入子用户登录入口 在主账号登录页面，点击**「子用户账号登录」**入口。
  
 <img width="773" height="493" alt="image" src="https://github.com/user-attachments/assets/850632d0-9d0e-4d9a-94c6-c8da08550dec" />
 
-2.输入子用户名@CompanyID与密码
+2.填写子用户凭证 格式：子用户名@CompanyID 例如：zhangsan@6372823
 
 <img width="499" height="422" alt="image" src="https://github.com/user-attachments/assets/27e3ccf7-f02f-49fa-b17a-c8b362da45ee" />
 
-3.  登录成功
+3. 登录完成 验证通过后自动跳转至子用户控制台。。
 
-说明：子用户邮箱登录入口已于2026年7月10日下线，如果存量子用户仍通过邮箱方式登录，验证通过后系统会帮助用户转化为子用户名@CompanyID，需要二次输入密码，建议收藏子用户账号专属登录链接，便于后续快速登录，提升使用效率。
+⚠️ 重要通知：子用户邮箱登录入口已于 2026 年 7 月 10 日正式下线。若现有子用户仍通过邮箱方式登录，系统验证通过后将自动引导其转化为子用户名@CompanyID 格式，届时需重新输入一次密码完成迁移。为保障后续高效登录，建议收藏子用户专属登录链接。
 
 
