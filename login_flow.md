@@ -5,7 +5,7 @@
 
 ## 一、主账号登录
 
-1.进入UCloud首页：https://ucloud.cn/，点击右上角登录控制台按钮  
+1.进入UCloud首页：https://ucloud.cn/ ， 点击右上角登录控制台按钮  
 <img width="271" height="56" alt="image" src="https://github.com/user-attachments/assets/495b7138-0781-45ae-afb4-1fda6db8e2c8" />
 
 
