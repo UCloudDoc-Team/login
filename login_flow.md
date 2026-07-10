@@ -14,17 +14,18 @@
 
 
 3.登录成功
+
 ## 二、子用户登录
 1.点击下方子用户账号登录按钮 
  
 <img width="773" height="493" alt="image" src="https://github.com/user-attachments/assets/850632d0-9d0e-4d9a-94c6-c8da08550dec" />
 
-2.输入CompanyID、子用户名，点击下一步
+2.输入子用户名@CompanyID与密码
 
-<img width="508" height="335" alt="image" src="https://github.com/user-attachments/assets/6067ffe6-edc6-4111-ab9e-b5a06b101f79" />
+<img width="499" height="422" alt="image" src="https://github.com/user-attachments/assets/27e3ccf7-f02f-49fa-b17a-c8b362da45ee" />
 
- 
-3. 输入密码
-<img width="503" height="363" alt="image" src="https://github.com/user-attachments/assets/29ac2776-9217-4222-8406-03c0b91a2797" />
+3.  登录成功
 
-4.  登录成功
+说明：子用户邮箱登录入口已于2026年7月10日下线，如果存量子用户仍通过邮箱方式登录，验证通过后系统会帮助用户转化为子用户名@CompanyID，需要二次输入密码，建议收藏子用户账号专属登录链接，便于后续快速登录，提升使用效率。
+
+
